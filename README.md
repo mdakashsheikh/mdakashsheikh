@@ -10,7 +10,7 @@
       "Redux",
       "Spring-boot"
     ],
-    "databases": ["MongoDB", "SQL"]
+    "databases": ["MongoDB", "MySQL"]
   }
 }
 ```
