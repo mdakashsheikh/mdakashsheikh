@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Akash Sheikh",
-  "languages": ["Javascript", "TypeScript", "Java", "C++"],
+  "languages": ["Javascript", "TypeScript", "Java", "C++", "Ruby"],
   "technologies": {
     "toolsAndFrameworks": [
       "Node",
@@ -9,9 +9,10 @@
       "React",
       "Next"
       "Redux",
-      "Spring-boot"
+      "Spring-boot",
+      "Ruby on Rails"
     ],
-    "databases": ["MongoDB", "MySQL"]
+    "databases": ["MongoDB", "MySQL", "PostgreSQL"]
   }
 }
 ```
