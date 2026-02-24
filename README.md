@@ -9,7 +9,6 @@
       "React",
       "Next"
       "Redux",
-      "Spring-boot",
       "Ruby on Rails"
     ],
     "databases": ["MongoDB", "MySQL", "PostgreSQL"]
