@@ -6,6 +6,7 @@
     "toolsAndFrameworks": [
       "Node",
       "Express",
+      "Nest"
       "React",
       "Next"
       "Redux",
