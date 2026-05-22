@@ -7,7 +7,7 @@
       "Node",
       "Express",
       "React",
-      "Next"
+      "Next",
       "Redux",
       "Ruby on Rails"
     ],
