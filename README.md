@@ -1,7 +1,7 @@
 ```json
 {
   "name": "Akash Sheikh",
-  "languages": ["Javascript", "TypeScript", "Java", "C", "C++", "Ruby"],
+  "languages": ["Javascript", "TypeScript", "Java", "C++", "Ruby"],
   "technologies": {
     "toolsAndFrameworks": [
       "Node",
