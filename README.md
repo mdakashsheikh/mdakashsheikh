@@ -11,7 +11,8 @@
       "Redux",
       "Ruby on Rails"
     ],
-    "databases": ["MongoDB", "MySQL", "PostgreSQL"]
+    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+    "os": ["Windows", "Linux"]
   }
 }
 ```
