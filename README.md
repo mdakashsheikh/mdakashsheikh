@@ -1,130 +1,109 @@
-# Hi, I'm Akash Sheikh
+<h1 align="center">Hi 👋, I'm Akash Sheikh</h1>
 
-### Full Stack Software Engineer | MERN Stack Developer | Ruby on Rails Developer
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nmakash&label=Profile%20views&color=0e75b6&style=flat" alt="nmakash" />
-</p>
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Software Engineer with over 2 years of experience building scalable web applications and backend systems. I enjoy solving complex problems, learning new technologies, and turning ideas into impactful digital products.
-
-* 💼 Software Developer with experience in both startup and enterprise environments
-* 🌱 Currently exploring System Design, DevOps, and Cloud Technologies
-* 🔭 Building modern web applications using MERN Stack and Ruby on Rails
-* 💡 Passionate about clean architecture, scalable systems, and performance optimization
-* 🤝 Open to collaboration on innovative projects and open-source contributions
-* 📍 Based in Bangladesh
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge\&logo=rubyonrails\&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 💼 Professional Experience
-
-### Software Developer
-
-* Developed scalable full-stack web applications
-* Built and maintained RESTful APIs
-* Integrated third-party services and payment gateways
-* Optimized database performance and backend architecture
-* Collaborated with cross-functional teams to deliver production-ready software
-
----
-
-## 🚀 Featured Projects
-
-### 📊 CRM System
-
-A complete customer relationship management solution designed to streamline customer interactions, lead management, and sales tracking.
-
-### 🏥 Hospital Management System
-
-A healthcare platform featuring patient management, doctor scheduling, appointment booking, and reporting systems.
-
-### 🎫 Online Ticketing System
-
-A ticket booking platform with authentication, seat management, booking workflows, and payment integration.
-
-### 🎙️ Podbook
-
-A podcast management platform that helps creators publish, organize, and distribute podcast content efficiently.
-
----
-
-## 📈 GitHub Statistics
+<h3 align="center">Full Stack Software Engineer | MERN Stack Developer | Ruby on Rails Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmakash&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+Building scalable web applications and robust backend systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakash&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://my-portfolio-iota-two-84.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/nmakash/">LinkedIn</a> •
+  <a href="mailto:nmakashsheikh@gmail.com">Email</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 🚀 Full Stack Software Engineer with **3+ years of experience**
+* 💼 Experienced in **MERN Stack** and **Ruby on Rails**
+* 🔭 Building scalable SaaS products and web applications
+* 🌱 Learning **System Design**, **Cloud Computing**, and **DevOps**
+* 💡 Passionate about Backend Engineering & API Development
+* 🤝 Open to freelance, remote, and open-source opportunities
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby" />
+</p>
+
+#### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+#### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,rails" />
+</p>
+
+#### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+#### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project                       | Description                                |
+| ----------------------------- | ------------------------------------------ |
+| 🏥 Hospital Management System | Complete healthcare management platform    |
+| 📊 CRM System                 | Customer relationship and sales management |
+| 🎫 Online Ticketing System    | Booking and payment management solution    |
+| 🎙️ Podbook                   | Podcast publishing and management platform |
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmakash&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakash&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nmakash&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nmakash&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Current Goals
+### 🎯 Current Focus
 
-* Building scalable backend architectures
-* Mastering System Design concepts
-* Expanding DevOps and Cloud knowledge
-* Contributing to open-source projects
-* Developing high-performance web applications
-
----
-
-## 🌐 Connect With Me
-
-* 🌍 Portfolio: https://my-portfolio-iota-two-84.vercel.app
-* 💼 LinkedIn: https://www.linkedin.com/in/nmakash
-* 📧 Email: [nmakashsheikh@gmail.com](mailto:nmakashsheikh@gmail.com)
+* Backend Architecture
+* REST API Development
+* Ruby on Rails
+* Next.js Applications
+* System Design
+* Docker & DevOps
 
 ---
 
-### 💡 Fun Fact
+### 🌐 Connect With Me
 
-I enjoy transforming ideas into real-world applications and continuously learning new technologies to stay ahead in the ever-evolving software industry.
+<p>
+  <a href="https://my-portfolio-iota-two-84.vercel.app/">🌍 Portfolio</a><br/>
+  <a href="https://www.linkedin.com/in/nmakash/">💼 LinkedIn</a><br/>
+  📧 nmakashsheikh@gmail.com
+</p>
 
-⭐ Feel free to explore my repositories and connect with me!
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
