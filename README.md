@@ -14,7 +14,7 @@ Building scalable web applications and robust backend systems.
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Mehttps://github.com/mdakashsheikh
 
 * 🚀 Full Stack Software Engineer with **3+ years of experience**
 * 💼 Experienced in **MERN Stack** and **Ruby on Rails**
@@ -27,7 +27,7 @@ Building scalable web applications and robust backend systems.
 
 ### 🛠️ Tech Stack
 
-#### Languages
+#### Languageshttps://github.com/mdakashsheikh
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby" />
@@ -35,7 +35,7 @@ Building scalable web applications and robust backend systems.
 
 #### Frontend
 
-<p>
+https://github.com/mdakashsheikh<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
@@ -68,7 +68,7 @@ Building scalable web applications and robust backend systems.
 | 🎫 Online Ticketing System    | Booking and payment management solution    |
 | 🎙️ Podbook                   | Podcast publishing and management platform |
 
----
+---https://github.com/mdakashsheikh
 
 ### 📈 GitHub Analytics
 
