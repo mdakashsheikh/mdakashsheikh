@@ -29,31 +29,31 @@ Building scalable web applications and robust backend systems.
 
 #### Languageshttps://github.com/mdakashsheikh
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby" />
 </p>
 
 #### Frontend
 
-https://github.com/mdakashsheikh<p>
+https://github.com/mdakashsheikh<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
 </p>
 
 #### Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,rails" />
 </p>
 
 #### Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 #### Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
@@ -96,7 +96,7 @@ https://github.com/mdakashsheikh<p>
 
 ### 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://my-portfolio-iota-two-84.vercel.app/">🌍 Portfolio</a><br/>
   <a href="https://www.linkedin.com/in/nmakash/">💼 LinkedIn</a><br/>
   📧 nmakashsheikh@gmail.com
