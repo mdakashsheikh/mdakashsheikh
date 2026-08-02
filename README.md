@@ -15,14 +15,13 @@ Building scalable web applications and robust backend systems.
 ---
 
 ### 👨‍💻 About Mehttps://github.com/mdakashsheikh
-<p align="center">
+
 * 🚀 Full Stack Software Engineer with **3+ years of experience**
 * 💼 Experienced in **MERN Stack** and **Ruby on Rails**
 * 🔭 Building scalable SaaS products and web applications
 * 🌱 Learning **System Design**, **Cloud Computing**, and **DevOps**
 * 💡 Passionate about Backend Engineering & API Development
 * 🤝 Open to freelance, remote, and open-source opportunities
-</p>
 ---
 
 ### 🛠️ Tech Stack
