@@ -59,6 +59,7 @@ https://github.com/mdakashsheikh<p align="center">
 ---
 
 ### 🚀 Featured Projects
+<p align="center">
 
 | Project                       | Description                                |
 | ----------------------------- | ------------------------------------------ |
@@ -67,6 +68,7 @@ https://github.com/mdakashsheikh<p align="center">
 | 🎫 Online Ticketing System    | Booking and payment management solution    |
 | 🎙️ Podbook                   | Podcast publishing and management platform |
 
+</p>
 ---https://github.com/mdakashsheikh
 
 ### 📈 GitHub Analytics
