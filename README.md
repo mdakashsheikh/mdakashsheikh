@@ -29,7 +29,7 @@ Building scalable web applications and robust backend systems.
 #### Languageshttps://github.com/mdakashsheikh
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby, rails" />
 </p>
 
 #### Frontend
