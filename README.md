@@ -100,44 +100,10 @@
 
 ---
 
-### 🚀 Tech Stack
-
-**Frontend**
-- React.js
-- Next.js
-- Redux
-- React Query
-- Tailwind CSS
-- HTML5 / CSS3
-- JavaScript / TypeScript
-
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- GraphQL
-
-**Database**
-- MongoDB
-- PostgreSQL
-- MySQL
-- Prisma ORM
-
-**Tools & DevOps**
-- Git & GitHub
-- Docker
-- Vercel
-- Render
-- cPanel
-- Linux
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/" target="_blank">
+<a href="[https://linkedin.com/](https://www.linkedin.com/in/nmakash/)" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
@@ -147,15 +113,15 @@
 ### 📊 GitHub Stats
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdakashsheikh&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=merko" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&locale=en&theme=merko" alt="GitHub Stats" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=merko" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdakashsheikh&theme=merko" alt="GitHub Streak" />
 </p>
 
 ---
