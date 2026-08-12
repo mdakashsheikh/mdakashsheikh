@@ -110,18 +110,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdakashsheikh&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=merko"
+    alt="Akash Sheikh's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashsheikh&layout=compact&hide_border=true&theme=merko"
+    alt="Akash Sheikh's Top Languages"
+    height="180"
+  />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&locale=en&theme=merko" alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdakashsheikh&theme=merko" alt="GitHub Streak" />
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mdakashsheikh&theme=merko&hide_border=true"
+    alt="Akash Sheikh's GitHub Streak"
+  />
 </p>
 
 ---
