@@ -103,7 +103,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-<a href="[https://linkedin.com/](https://www.linkedin.com/in/nmakash/)" target="_blank">
+<a href="https://linkedin.com/in/nmakash" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
