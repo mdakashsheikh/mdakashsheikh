@@ -1,108 +1,167 @@
 <h1 align="center">Hi 👋, I'm Akash Sheikh</h1>
 
-<h3 align="center">Full Stack Software Engineer | MERN Stack Developer | Ruby on Rails Developer</h3>
+<h3 align="center">A passionate Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-Building scalable web applications and robust backend systems.
-</p>
-
-<p align="center">
-  <a href="https://my-portfolio-iota-two-84.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/nmakash/">LinkedIn</a> •
-  <a href="mailto:nmakashsheikh@gmail.com">Email</a>
+  I’m a Software Developer focused on building scalable, modern, and user-friendly web applications.
 </p>
 
 ---
 
-### 👨‍💻 About Mehttps://github.com/mdakashsheikh
+### 👨‍💻 About Me
 
-* 🚀 Full Stack Software Engineer with **3+ years of experience**
-* 💼 Experienced in **MERN Stack** and **Ruby on Rails**
-* 🔭 Building scalable SaaS products and web applications
-* 🌱 Learning **System Design**, **Cloud Computing**, and **DevOps**
-* 💡 Passionate about Backend Engineering & API Development
-* 🤝 Open to freelance, remote, and open-source opportunities
----
-
-### 🛠️ Tech Stack
-
-#### Languageshttps://github.com/mdakashsheikh
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,ruby, rails" />
-</p>
-
-#### Frontend
-
-https://github.com/mdakashsheikh<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
-
-#### Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,rails" />
-</p>
-
-#### Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-#### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+- 💻 I'm a **Full-Stack Developer** specializing in the **MERN Stack**
+- 🚀 Experienced with **React.js, Next.js, Node.js, NestJS, and TypeScript**
+- 🛠️ I enjoy building scalable and maintainable web applications
+- 🤝 I'm looking to collaborate on **interesting open-source and team projects**
+- 🌱 Currently improving my skills in **Backend Architecture, DevOps, and System Design**
+- 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, and PostgreSQL**
+- 📫 Feel free to connect with me on LinkedIn
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Languages and Tools
 
-| Project                       | Description                                |
-| ----------------------------- | ------------------------------------------ |
-| 🏥 Hospital Management System | Complete healthcare management platform    |
-| 📊 CRM System                 | Customer relationship and sales management |
-| 🎫 Online Ticketing System    | Booking and payment management solution    |
-| 🎙️ Podbook                   | Podcast publishing and management platform |
+<p align="left">
 
----https://github.com/mdakashsheikh
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
 
-### 📈 GitHub Analytics
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmakash&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmakash&layout=compact&theme=tokyonight" />
-</p>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nmakash&theme=tokyonight" />
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
 
-### 🎯 Current Focus
+### 🚀 Tech Stack
 
-* Backend Architecture
-* REST API Development
-* Ruby on Rails
-* Next.js Applications
-* System Design
-* Docker & DevOps
+**Frontend**
+- React.js
+- Next.js
+- Redux
+- React Query
+- Tailwind CSS
+- HTML5 / CSS3
+- JavaScript / TypeScript
+
+**Backend**
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- GraphQL
+
+**Database**
+- MongoDB
+- PostgreSQL
+- MySQL
+- Prisma ORM
+
+**Tools & DevOps**
+- Git & GitHub
+- Docker
+- Vercel
+- Render
+- cPanel
+- Linux
 
 ---
 
-### 🌐 Connect With Me
+### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://my-portfolio-iota-two-84.vercel.app/">🌍 Portfolio</a><br/>
-  <a href="https://www.linkedin.com/in/nmakash/">💼 LinkedIn</a><br/>
-  📧 nmakashsheikh@gmail.com
+<p align="left">
+<a href="https://linkedin.com/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 </p>
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=merko" alt="Top Languages" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=merko" alt="GitHub Stats" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=merko" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=mdakashsheikh" alt="Snake animation" />
 </p>
