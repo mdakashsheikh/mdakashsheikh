@@ -1,141 +1,41 @@
-<h1 align="center">Hi 👋, I'm Akash Sheikh</h1>
+# Hi 👋, I'm Akash Sheikh
 
-<h3 align="center">A passionate Full-Stack Developer from Bangladesh 🇧🇩</h3>
+### Full-Stack Software Engineer 🇧🇩
 
-<p align="center">
-  I’m a Software Developer focused on building scalable, modern, and user-friendly web applications.
-</p>
+I build **scalable, reliable, and user-focused web applications** with modern technologies.
 
----
+* 💻 Full-Stack Developer focused on **TypeScript, React, Node.js & Ruby on Rails**
+* 🏗️ Interested in **Backend Architecture, System Design & DevOps**
+* 🗄️ Experienced with **PostgreSQL, MongoDB, MySQL & Redis**
+* 🚀 Passionate about **clean code, scalable systems & continuous learning**
+* 🤝 Open to **interesting projects and collaborations**
 
-### 👨‍💻 About Me
-
-- 💻 I'm a **Full-Stack Developer** specializing in the **MERN Stack**
-- 🚀 Experienced with **React.js, Next.js, Node.js, NestJS, and TypeScript**
-- 🛠️ I enjoy building scalable and maintainable web applications
-- 🤝 I'm looking to collaborate on **interesting open-source and team projects**
-- 🌱 Currently improving my skills in **Backend Architecture, DevOps, and System Design**
-- 💬 Ask me about **React.js, Next.js, Node.js, NestJS, TypeScript, and PostgreSQL**
-- 📫 Feel free to connect with me on LinkedIn
-
----
-
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <p align="left">
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-</a>
-
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" width="40" alt="Ruby on Rails"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
----
+### 📊 GitHub Stats
 
-### 🤝 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashsheikh&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+</p>
+
+### 🤝 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/nmakash" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=merko"
-    alt="Akash Sheikh's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashsheikh&layout=compact&hide_border=true&theme=merko"
-    alt="Akash Sheikh's Top Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mdakashsheikh&theme=merko&hide_border=true"
-    alt="Akash Sheikh's GitHub Streak"
-  />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=mdakashsheikh" alt="Snake animation" />
+  <a href="https://linkedin.com/in/nmakash">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"/>
+  </a>
 </p>
