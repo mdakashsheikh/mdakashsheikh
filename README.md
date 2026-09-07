@@ -4,7 +4,7 @@
 
 I build **scalable, reliable, and user-focused web applications** with modern technologies.
 
-* 💻 Full-Stack Developer focused on **TypeScript, React, Node.js & Ruby on Rails**
+* 💻 Full-Stack Developer focused on **TypeScript, React, Nest.js, Node.js & Ruby on Rails**
 * 🏗️ Interested in **Backend Architecture, System Design & DevOps**
 * 🗄️ Experienced with **PostgreSQL, MongoDB, MySQL & Redis**
 * 🚀 Passionate about **clean code, scalable systems & continuous learning**
