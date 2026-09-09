@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akash Sheikh
 
-### Full-Stack Software Engineer 🇧🇩
+### Full-Stack Software Engineer
 
 I build **scalable, reliable, and user-focused web applications** with modern technologies.
 
