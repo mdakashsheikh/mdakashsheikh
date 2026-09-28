@@ -26,7 +26,6 @@ I build **scalable, reliable, and user-focused web applications** with modern te
 </p>
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdakashsheikh&layout=compact&hide_border=true&theme=github_dark" height="170"/>
