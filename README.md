@@ -4,11 +4,11 @@
 
 I build **scalable, reliable, and user-focused web applications** with modern technologies.
 
-* 💻 Full-Stack Developer focused on **TypeScript, React, Nest.js, Node.js & Ruby on Rails**
-* 🏗️ Interested in **Backend Architecture, System Design & DevOps**
-* 🗄️ Experienced with **PostgreSQL, MongoDB, MySQL & Redis**
-* 🚀 Passionate about **clean code, scalable systems & continuous learning**
-* 🤝 Open to **interesting projects and collaborations**
+- 💻 Full-Stack Developer focused on **TypeScript, React, NestJS, Node.js & Ruby on Rails**
+- 🏗️ Interested in **Backend Architecture, System Design & DevOps**
+- 🗄️ Experienced with **PostgreSQL, MongoDB, MySQL & Redis**
+- 🚀 Passionate about **clean code, scalable systems & continuous learning**
+- 🤝 Open to **interesting projects and collaborations**
 
 ### 🛠️ Tech Stack
 
@@ -21,13 +21,16 @@ I build **scalable, reliable, and user-focused web applications** with modern te
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" width="40" alt="Ruby on Rails"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" alt="Redis"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
 ### 📊 GitHub Stats
+
 <p align="center">
-    <img
+  <img
     src="https://github-readme-stats.vercel.app/api?username=mdakashsheikh&show_icons=true&hide_border=true&theme=github_dark"
     height="170"
     alt="Akash's GitHub Stats"
@@ -39,10 +42,16 @@ I build **scalable, reliable, and user-focused web applications** with modern te
   />
 </p>
 
-### 🤝 Connect
+### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nmakash" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/nmakash/">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      width="35"
+      alt="Connect with me on LinkedIn"
+    />
   </a>
 </p>
+
+**Let's connect and build something great together!** 🚀
