@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash Sheikh
+# Hi 👋, I'm Akash Sheikh!
 
 ### Full-Stack Software Engineer
 
