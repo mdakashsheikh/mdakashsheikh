@@ -45,7 +45,7 @@ I build **scalable, reliable, and user-focused web applications** with modern te
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nmakash/" target="_blank">
+  <a href="https://www.linkedin.com/in/nmakash/">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       width="35"
